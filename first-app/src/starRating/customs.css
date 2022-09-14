@@ -1,0 +1,15 @@
+button {
+    background-color: transparent;
+    border: none;
+    outline: none;
+    cursor: pointer;
+  }
+  .on {
+    color: rgb(59, 116, 229);
+  }
+  .off {
+    color: #ccc;
+  }
+  .star{
+    font-size: 100px;
+  }

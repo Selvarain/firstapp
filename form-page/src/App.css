@@ -1,0 +1,11 @@
+.table{
+  border: 2px solid black;
+  
+}
+.tr{
+  color: pink;
+  border: 2px solid black;
+}
+.content{
+  color: rgb(234, 60, 60);
+}
